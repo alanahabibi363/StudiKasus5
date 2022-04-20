@@ -1,0 +1,10 @@
+KRS
+Masukkan NIM : 2100018001
+Masukkan nama mahasiswa : adi
+Masukkan jumlah mata kuliah yang diambil : 3
+Masukkan jumlah sks : 9
+NIM : 2100018001
+NAMA : adi
+jumlah matakuliah : 3
+Jumlah sks : 9
+total biaya : 1350000
